@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 93339a261ffaf8643912c3255d6e8274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7720823502485043847
+    second: BEEF 7_0
+  - first:
+      213: -4183974980460901849
+    second: BEEF 7_1
+  - first:
+      213: -6803380785395178429
+    second: BEEF 7_2
+  - first:
+      213: -8486773729693652787
+    second: BEEF 7_3
+  - first:
+      213: 6614484239834937663
+    second: BEEF 7_4
+  - first:
+      213: 4374907929596578866
+    second: BEEF 7_5
+  - first:
+      213: -1997796616324056535
+    second: BEEF 7_6
+  - first:
+      213: -2216944508488364704
+    second: BEEF 7_7
+  - first:
+      213: 216942710949439414
+    second: BEEF 7_8
+  - first:
+      213: -1907983723804087376
+    second: BEEF 7_9
+  - first:
+      213: -6918717101502910101
+    second: BEEF 7_10
+  - first:
+      213: -3292344839318812522
+    second: BEEF 7_11
+  - first:
+      213: -4636435909097745316
+    second: BEEF 7_12
+  - first:
+      213: -1585349342624124598
+    second: BEEF 7_13
+  - first:
+      213: 2316670885528800851
+    second: BEEF 7_14
+  - first:
+      213: -5798012609865546360
+    second: BEEF 7_15
+  - first:
+      213: -1877138772132176884
+    second: BEEF 7_16
+  - first:
+      213: -6818850968760362641
+    second: BEEF 7_17
+  - first:
+      213: -7214519612315844100
+    second: BEEF 7_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BEEF 7_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 108
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78abb1f9110e52b60800000000000000
+      internalID: 7720823502485043847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 133
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a81844ce88fe5c0800000000000000
+      internalID: -4183974980460901849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446dc6b8398591a0800000000000000
+      internalID: -6803380785395178429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82e78f14ce83a80800000000000000
+      internalID: -8486773729693652787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39f7cffe5e5bcb50800000000000000
+      internalID: 6614484239834937663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cc4ac259bc6bc30800000000000000
+      internalID: 4374907929596578866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 61
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af68eef866644e0800000000000000
+      internalID: -1997796616324056535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 87
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4cc427b4db31e0800000000000000
+      internalID: -2216944508488364704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 90
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b760c60f3cb20300800000000000000
+      internalID: 216942710949439414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 87
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2e6189ea7585e0800000000000000
+      internalID: -1907983723804087376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 44
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61bf7ff377cbff90800000000000000
+      internalID: -6918717101502910101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 62
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698cf4eefcd3f42d0800000000000000
+      internalID: -3292344839318812522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 57
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541d560b1218afb0800000000000000
+      internalID: -4636435909097745316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 21
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417df32c25bff9e0800000000000000
+      internalID: -1585349342624124598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 14
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e0f6965e7762020800000000000000
+      internalID: 2316670885528800851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858ab12042598fa0800000000000000
+      internalID: -5798012609865546360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd2f47b3013f5e0800000000000000
+      internalID: -1877138772132176884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d5b6fb239e51a0800000000000000
+      internalID: -6818850968760362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEEF 7_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf143d203a0e0eb90800000000000000
+      internalID: -7214519612315844100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BEEF 7_0: 7720823502485043847
+      BEEF 7_1: -4183974980460901849
+      BEEF 7_10: -6918717101502910101
+      BEEF 7_11: -3292344839318812522
+      BEEF 7_12: -4636435909097745316
+      BEEF 7_13: -1585349342624124598
+      BEEF 7_14: 2316670885528800851
+      BEEF 7_15: -5798012609865546360
+      BEEF 7_16: -1877138772132176884
+      BEEF 7_17: -6818850968760362641
+      BEEF 7_18: -7214519612315844100
+      BEEF 7_2: -6803380785395178429
+      BEEF 7_3: -8486773729693652787
+      BEEF 7_4: 6614484239834937663
+      BEEF 7_5: 4374907929596578866
+      BEEF 7_6: -1997796616324056535
+      BEEF 7_7: -2216944508488364704
+      BEEF 7_8: 216942710949439414
+      BEEF 7_9: -1907983723804087376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

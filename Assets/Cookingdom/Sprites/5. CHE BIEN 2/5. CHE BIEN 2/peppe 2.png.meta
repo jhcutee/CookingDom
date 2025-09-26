@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: b8bbb975c7a4ad2418e4311a42da0232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 486346819156925373
+    second: peppe 2_0
+  - first:
+      213: -9200995478361786424
+    second: peppe 2_1
+  - first:
+      213: 6470504093069516534
+    second: peppe 2_2
+  - first:
+      213: 8834403186237222900
+    second: peppe 2_3
+  - first:
+      213: -6288876521340097289
+    second: peppe 2_4
+  - first:
+      213: 8722280600740740707
+    second: peppe 2_5
+  - first:
+      213: -2409634454530274420
+    second: peppe 2_6
+  - first:
+      213: 8659984017309788452
+    second: peppe 2_7
+  - first:
+      213: 6404530756386107599
+    second: peppe 2_8
+  - first:
+      213: -2354932213806104897
+    second: peppe 2_9
+  - first:
+      213: 7558460756869329598
+    second: peppe 2_10
+  - first:
+      213: 3349790283042896813
+    second: peppe 2_11
+  - first:
+      213: 5496407366736885702
+    second: peppe 2_12
+  - first:
+      213: -4284241162346547025
+    second: peppe 2_13
+  - first:
+      213: 1927429583927565690
+    second: peppe 2_14
+  - first:
+      213: -3469629933206567006
+    second: peppe 2_15
+  - first:
+      213: 7938162667282132595
+    second: peppe 2_16
+  - first:
+      213: 2517451168350607028
+    second: peppe 2_17
+  - first:
+      213: -7722206265747969899
+    second: peppe 2_18
+  - first:
+      213: -8656584470150833764
+    second: peppe 2_19
+  - first:
+      213: -5917309111218974335
+    second: peppe 2_20
+  - first:
+      213: -7834980999064690678
+    second: peppe 2_21
+  - first:
+      213: 4458061500588938819
+    second: peppe 2_22
+  - first:
+      213: 7870800987370289392
+    second: peppe 2_23
+  - first:
+      213: -1915153240506993346
+    second: peppe 2_24
+  - first:
+      213: 6770816287337355127
+    second: peppe 2_25
+  - first:
+      213: 947886512379440979
+    second: peppe 2_26
+  - first:
+      213: 5694566633771921913
+    second: peppe 2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peppe 2_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 123
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5d71fad9dfb600800000000000000
+      internalID: 486346819156925373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 118
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c735448c5f7f4080800000000000000
+      internalID: -9200995478361786424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe9e11c039dbc950800000000000000
+      internalID: 6470504093069516534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffaf3624ea1a9a70800000000000000
+      internalID: 8834403186237222900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcaa3daf1c69b8a0800000000000000
+      internalID: -6288876521340097289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebe666ef3cb0970800000000000000
+      internalID: 8722280600740740707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b4e2bfa324f8ed0800000000000000
+      internalID: -2409634454530274420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4296f48c4917e2870800000000000000
+      internalID: 8659984017309788452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0357f4ac671e850800000000000000
+      internalID: 6404530756386107599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe76f5e0a9915fd0800000000000000
+      internalID: -2354932213806104897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 92
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb23ded030c05e860800000000000000
+      internalID: 7558460756869329598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 98
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb3d4b388dc7e20800000000000000
+      internalID: 3349790283042896813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7313bf069274c40800000000000000
+      internalID: 5496407366736885702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83a3a9c515b84c0800000000000000
+      internalID: -4284241162346547025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd49f9efa9fba10800000000000000
+      internalID: 1927429583927565690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7092965f569dfc0800000000000000
+      internalID: -3469629933206567006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6e9043e40a2e60800000000000000
+      internalID: 7938162667282132595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b61ee4ef78cfe220800000000000000
+      internalID: 2517451168350607028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598ebc7b05635d490800000000000000
+      internalID: -7722206265747969899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c991f78f942add780800000000000000
+      internalID: -8656584470150833764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1815c9fe6be71eda0800000000000000
+      internalID: -5917309111218974335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0060d8fa4e844390800000000000000
+      internalID: -7834980999064690678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d271a0573edd30800000000000000
+      internalID: 4458061500588938819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8fff5fbc3ba3d60800000000000000
+      internalID: 7870800987370289392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35742156420c65e0800000000000000
+      internalID: -1915153240506993346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7771c2e3a85c6fd50800000000000000
+      internalID: 6770816287337355127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa2c9c2c1972d00800000000000000
+      internalID: 947886512379440979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peppe 2_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f174cbae2a270f40800000000000000
+      internalID: 5694566633771921913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      peppe 2_0: 486346819156925373
+      peppe 2_1: -9200995478361786424
+      peppe 2_10: 7558460756869329598
+      peppe 2_11: 3349790283042896813
+      peppe 2_12: 5496407366736885702
+      peppe 2_13: -4284241162346547025
+      peppe 2_14: 1927429583927565690
+      peppe 2_15: -3469629933206567006
+      peppe 2_16: 7938162667282132595
+      peppe 2_17: 2517451168350607028
+      peppe 2_18: -7722206265747969899
+      peppe 2_19: -8656584470150833764
+      peppe 2_2: 6470504093069516534
+      peppe 2_20: -5917309111218974335
+      peppe 2_21: -7834980999064690678
+      peppe 2_22: 4458061500588938819
+      peppe 2_23: 7870800987370289392
+      peppe 2_24: -1915153240506993346
+      peppe 2_25: 6770816287337355127
+      peppe 2_26: 947886512379440979
+      peppe 2_27: 5694566633771921913
+      peppe 2_3: 8834403186237222900
+      peppe 2_4: -6288876521340097289
+      peppe 2_5: 8722280600740740707
+      peppe 2_6: -2409634454530274420
+      peppe 2_7: 8659984017309788452
+      peppe 2_8: 6404530756386107599
+      peppe 2_9: -2354932213806104897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\manager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\manager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\sinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\sinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\sinkwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\sinkwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\plugsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\plugsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\manager\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\manager\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\sink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\sink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|f:\\unity projects\\mochoo\u0027s projects\\cookingdom\\assets\\cookingdom\\scripts\\manager\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\manager\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|f:\\unity projects\\mochoo\u0027s projects\\cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\cleanningbeetroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\cleanningbeetroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\level39\\prepare_1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\level39\\prepare_1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\assets\\cookingdom\\scripts\\manager\\droptargetbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA95C84-03FB-5688-CF95-7C2E79A4EC44}|Assembly-CSharp.csproj|solutionrelative:assets\\cookingdom\\scripts\\manager\\droptargetbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanningBeetroot.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\CleanningBeetroot.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\CleanningBeetroot.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\CleanningBeetroot.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\CleanningBeetroot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:06:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Manager\\ItemBase.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\ItemBase.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Manager\\ItemBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:53:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sink.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Sink.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Sink.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Sink.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Sink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:33:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DraggableItem.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\DraggableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Manager\\DraggableItem.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\DraggableItem.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Manager\\DraggableItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:41:12.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlugSocket.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\PlugSocket.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\PlugSocket.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\PlugSocket.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\PlugSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:18:57.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinkWater.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkWater.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkWater.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkWater.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkWater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:12:06.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinkController.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkController.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkController.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkController.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\SinkController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:02:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Manager\\InputManager.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Manager\\InputManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:32:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DropTargetBase.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\DropTargetBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Manager\\DropTargetBase.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Manager\\DropTargetBase.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Manager\\DropTargetBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:34:54.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Knob.cs",
+              "DocumentMoniker": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Knob.cs",
+              "RelativeDocumentMoniker": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Knob.cs",
+              "ToolTip": "F:\\Unity Projects\\Mochoo\u0027s Projects\\Cookingdom\\Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Knob.cs",
+              "RelativeToolTip": "Assets\\Cookingdom\\Scripts\\Level39\\Prepare_1\\Knob.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:02:25.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

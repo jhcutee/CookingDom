@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 64f39ca4f8b04a64d9255a2cdbfef9e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -158692970653274468
+    second: coriander 8_0
+  - first:
+      213: -8659220180539528318
+    second: coriander 8_1
+  - first:
+      213: 5318472244141013553
+    second: coriander 8_2
+  - first:
+      213: 2403634855317202658
+    second: coriander 8_3
+  - first:
+      213: 4759920359955721336
+    second: coriander 8_4
+  - first:
+      213: 2588999861928517690
+    second: coriander 8_5
+  - first:
+      213: 2693053355907923245
+    second: coriander 8_6
+  - first:
+      213: -9091857156550417621
+    second: coriander 8_7
+  - first:
+      213: 3404489459575497241
+    second: coriander 8_8
+  - first:
+      213: 579507911318874134
+    second: coriander 8_9
+  - first:
+      213: -1460271938650862754
+    second: coriander 8_10
+  - first:
+      213: -1270950274748790486
+    second: coriander 8_11
+  - first:
+      213: -6289978465797798531
+    second: coriander 8_12
+  - first:
+      213: 986021578382333914
+    second: coriander 8_13
+  - first:
+      213: -3121153674341315992
+    second: coriander 8_14
+  - first:
+      213: -23740763721948137
+    second: coriander 8_15
+  - first:
+      213: 6405983463433423075
+    second: coriander 8_16
+  - first:
+      213: -5052695192651548903
+    second: coriander 8_17
+  - first:
+      213: -5131557231801988466
+    second: coriander 8_18
+  - first:
+      213: -3302820567150335183
+    second: coriander 8_19
+  - first:
+      213: 7664698523658321104
+    second: coriander 8_20
+  - first:
+      213: -4189720940242761118
+    second: coriander 8_21
+  - first:
+      213: 5291864656713138127
+    second: coriander 8_22
+  - first:
+      213: 5941803023173948649
+    second: coriander 8_23
+  - first:
+      213: -3807214858307250450
+    second: coriander 8_24
+  - first:
+      213: 4390273851774596590
+    second: coriander 8_25
+  - first:
+      213: 6605131015654126955
+    second: coriander 8_26
+  - first:
+      213: -830086842457296670
+    second: coriander 8_27
+  - first:
+      213: -2831932515273331398
+    second: coriander 8_28
+  - first:
+      213: -6716660833786094669
+    second: coriander 8_29
+  - first:
+      213: 1952756291996767667
+    second: coriander 8_30
+  - first:
+      213: 1612723856165826486
+    second: coriander 8_31
+  - first:
+      213: 1818212120281917174
+    second: coriander 8_32
+  - first:
+      213: 2625755696116294843
+    second: coriander 8_33
+  - first:
+      213: -8785289744706794522
+    second: coriander 8_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coriander 8_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2cdf75953ccdf0800000000000000
+      internalID: -158692970653274468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 229
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2c03df1544d780800000000000000
+      internalID: -8659220180539528318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 226
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13abccbd3520fc940800000000000000
+      internalID: 5318472244141013553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ede87a2d6b5120800000000000000
+      internalID: 2403634855317202658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 212
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6f462952ae0240800000000000000
+      internalID: 4759920359955721336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e8c548a9fde320800000000000000
+      internalID: 2588999861928517690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 160
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db01042c5af5520800000000000000
+      internalID: 2693053355907923245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 188
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23283b361c33d180800000000000000
+      internalID: -9091857156550417621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122f8f202d2f3f20800000000000000
+      internalID: 3404489459575497241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618a0beff53da0800800000000000000
+      internalID: 579507911318874134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 202
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8e3d98621cbbe0800000000000000
+      internalID: -1460271938650862754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 173
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29c96a757dac5ee0800000000000000
+      internalID: -1270950274748790486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 172
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75044d39e185b8a0800000000000000
+      internalID: -6289978465797798531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 166
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad75950c66d0fad00800000000000000
+      internalID: 986021578382333914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 162
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0b7f054f6fa4d0800000000000000
+      internalID: -3121153674341315992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 186
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71428a3b6e7abaff0800000000000000
+      internalID: -23740763721948137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c9f60500a6e850800000000000000
+      internalID: 6405983463433423075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 118
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173eab1e7831e9b0800000000000000
+      internalID: -5052695192651548903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 174
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a0bd5c2eb09c8b0800000000000000
+      internalID: -5131557231801988466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 126
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b662a71360a22d0800000000000000
+      internalID: -3302820567150335183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 152
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc7d1da2ba7e5a60800000000000000
+      internalID: 7664698523658321104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 145
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a80d0c00f1bd5c0800000000000000
+      internalID: -4189720940242761118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb4d62eda707940800000000000000
+      internalID: 5291864656713138127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e410a95e56857250800000000000000
+      internalID: 5941803023173948649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 122
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d103024e0a2bc0800000000000000
+      internalID: -3807214858307250450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 82
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f5b9bec26dec30800000000000000
+      internalID: 4390273851774596590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65bafac9a32aab50800000000000000
+      internalID: 6605131015654126955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07b9e2a60fa74f0800000000000000
+      internalID: -830086842457296670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 38
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d214fa164f2b8d0800000000000000
+      internalID: -2831932515273331398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 60
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb966dde80a9c2a0800000000000000
+      internalID: -6716660833786094669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5506d5085991b10800000000000000
+      internalID: 1952756291996767667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 26
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfef877dcb816610800000000000000
+      internalID: 1612723856165826486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 26
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6a6b34a469b3910800000000000000
+      internalID: 1818212120281917174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb468fdc4ee807420800000000000000
+      internalID: 2625755696116294843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coriander 8_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8edd0681641680800000000000000
+      internalID: -8785289744706794522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coriander 8_0: -158692970653274468
+      coriander 8_1: -8659220180539528318
+      coriander 8_10: -1460271938650862754
+      coriander 8_11: -1270950274748790486
+      coriander 8_12: -6289978465797798531
+      coriander 8_13: 986021578382333914
+      coriander 8_14: -3121153674341315992
+      coriander 8_15: -23740763721948137
+      coriander 8_16: 6405983463433423075
+      coriander 8_17: -5052695192651548903
+      coriander 8_18: -5131557231801988466
+      coriander 8_19: -3302820567150335183
+      coriander 8_2: 5318472244141013553
+      coriander 8_20: 7664698523658321104
+      coriander 8_21: -4189720940242761118
+      coriander 8_22: 5291864656713138127
+      coriander 8_23: 5941803023173948649
+      coriander 8_24: -3807214858307250450
+      coriander 8_25: 4390273851774596590
+      coriander 8_26: 6605131015654126955
+      coriander 8_27: -830086842457296670
+      coriander 8_28: -2831932515273331398
+      coriander 8_29: -6716660833786094669
+      coriander 8_3: 2403634855317202658
+      coriander 8_30: 1952756291996767667
+      coriander 8_31: 1612723856165826486
+      coriander 8_32: 1818212120281917174
+      coriander 8_33: 2625755696116294843
+      coriander 8_34: -8785289744706794522
+      coriander 8_4: 4759920359955721336
+      coriander 8_5: 2588999861928517690
+      coriander 8_6: 2693053355907923245
+      coriander 8_7: -9091857156550417621
+      coriander 8_8: 3404489459575497241
+      coriander 8_9: 579507911318874134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
