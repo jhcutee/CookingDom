@@ -1,86 +1,108 @@
-﻿using System;
-using Unity.VisualScripting;
-using UnityEngine;
-using UnityEngine.Windows;
+﻿using UnityEngine;
+using System.Collections;
 
 public class LeafPullHandle : MonoBehaviour
 {
-    [Header("Elements")]
-    [SerializeField] private InputManager inputManager;
+    [Header("Refs")]
     [SerializeField] private Spot spot;
     [SerializeField] private Animator animator;
 
-    [Header("Settings")]
-    [SerializeField] private string pullTrigger = "Pulled";
+    [Header("Animator Triggers")]
+    [SerializeField] private string clickedTrigger = "Clicked";
+    [SerializeField] private string pulledTrigger = "Pulled";
     [SerializeField] private string idleTrigger = "Idle";
-    [SerializeField] private float timing = 1.25f;
 
-    private Collider2D selfCol;
-    private bool dragging;
-    private bool harvestedStarted;
-    private float startTime;
+    [Header("Tuning")]
+    [SerializeField] private float minDragPixels = 6f;
+    [SerializeField] private float harvestDelay = 1.5f;
+    private Vector2 downScreenPos;
+    private bool pressed, pulled;
+    private Coroutine harvestCR;
 
-
-    private void Reset()
+    void Reset()
     {
-        inputManager = FindAnyObjectByType<InputManager>();
         spot = GetComponentInParent<Spot>();
         animator = GetComponent<Animator>();
     }
-    void Awake()
-    {
-        selfCol = GetComponent<Collider2D>();
 
-        if (!inputManager) inputManager = FindAnyObjectByType<InputManager>();
-    }
-    private void OnEnable()
+    void OnMouseDown()
     {
-        if (inputManager == null) return;
-        inputManager.onDragStarted += OnDragStarted;
-        inputManager.onDrag += OnDrag;
-        inputManager.onDragEnded += OnDragEnded;
-    }
-    private void OnDisable()
-    {
-        if (inputManager == null) return;
-        inputManager.onDragStarted -= OnDragStarted;
-        inputManager.onDrag -= OnDrag;
-        inputManager.onDragEnded -= OnDragEnded;
-    }
-    private void OnDragStarted(Collider2D hit, Vector2 world)
-    {
+        if (spot && spot.IsHarvested) return;
 
-        if (hit != selfCol || spot == null || spot.IsHarvested) return;
+        pressed = true;
+        pulled = false;
+        downScreenPos = Input.mousePosition;
 
-        dragging = true;
-        harvestedStarted = false;
-        startTime = Time.time;
-        animator.SetTrigger(pullTrigger);
+        StopHarvestCountdown();
+        animator?.ResetTrigger(pulledTrigger);
+        animator?.SetTrigger(clickedTrigger);
     }
-    private void OnDrag(Collider2D hit, Vector2 world)
-    {
-        if (!dragging || hit != selfCol || harvestedStarted) return;
 
-        if(Time.time - startTime >= 0.5f)
+    void OnMouseDrag()
+    {
+        if (!pressed || pulled) return;
+
+        float dist = ((Vector2)Input.mousePosition - downScreenPos).magnitude;
+        if (dist >= minDragPixels)
         {
-            harvestedStarted = true;
-            spot.Harvest();
-        }
-
-        if (Time.time - startTime >= timing)
-        {
-            animator?.SetTrigger(idleTrigger);
+            pulled = true;
+            animator?.ResetTrigger(clickedTrigger);
+            animator?.SetTrigger(pulledTrigger);  // kéo đủ -> Pulled
+            StartHarvestCountdown();
         }
     }
-    private void OnDragEnded(Collider2D hit, Vector2 world)
+
+    void OnMouseUp()
     {
-        if (hit != selfCol) return;
-        if(Time.time - startTime < timing && spot != null && spot.IsHarvested)
-        {
-            spot.StopHarvest();
-        }
+        if (!pressed) return;
+        pressed = false;
+
+        // luôn hủy đếm & ép Idle bằng trigger ngay khi thả
+        StopHarvestCountdown();
+        animator?.ResetTrigger(pulledTrigger);
+        animator?.ResetTrigger(clickedTrigger);
         animator?.SetTrigger(idleTrigger);
 
-        dragging = false;
+        pulled = false;
+    }
+
+    void StartHarvestCountdown()
+    {
+        StopHarvestCountdown();
+        harvestCR = StartCoroutine(HoldThenHarvest());
+    }
+
+    void StopHarvestCountdown()
+    {
+        if (harvestCR != null)
+        {
+            StopCoroutine(harvestCR);
+            harvestCR = null;
+        }
+    }
+
+    IEnumerator HoldThenHarvest()
+    {
+        float t = 0f;
+        while (t < harvestDelay)
+        {
+            if (!pressed) yield break; // thả tay giữa chừng -> không harvest
+            t += Time.deltaTime;
+            yield return null;
+        }
+
+        if (spot && !spot.IsHarvested) spot.Harvest();
+        harvestCR = null;
+    }
+
+    void OnDisable()
+    {
+        StopHarvestCountdown();
+        pressed = false;
+        pulled = false;
+
+        // đảm bảo animator không kẹt ở Pulled nếu object bị disable
+        animator?.ResetTrigger(pulledTrigger);
+        animator?.SetTrigger(idleTrigger);
     }
 }

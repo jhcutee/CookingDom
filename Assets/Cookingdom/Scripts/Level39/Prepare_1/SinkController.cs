@@ -1,49 +1,100 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class SinkController : MonoBehaviour
 {
     public static SinkController instance;
-    [Header("elements")]
+
+    [Header("Elements")]
     [SerializeField] private Knob knob;
-    [SerializeField] private PlugSocket plugSocket;
-    [SerializeField] private SinkWater SinkWater;
+    [SerializeField] private SinkWater sinkWater;
+    public SinkWater SinkWater => sinkWater;
+    [SerializeField] private SinkTarget sinkTarget;
+
+    [Header("Plug Targets")]
+    [SerializeField] private Transform drainTarget;
+    [SerializeField] private Transform restTarget;
 
     private bool isPlugged;
+
     public bool IsPlugged => isPlugged;
-    public bool IsWaterOn => knob.isOn && isPlugged;
-    private void Awake()
-    {
-        instance = this;
-    }
-    private void OnEnable()
-    {
-        knob.turnOn += FillTheSink;
-        plugSocket.OnPlugged += FillTheSink;
+    public bool IsWaterOn => knob && knob.isOn;
 
-    }
-    private void OnDisable()
-    {
+    void Awake() { instance = this; }
 
-        knob.turnOn -= FillTheSink;
-        plugSocket.OnPlugged -= FillTheSink;
-    }
-    public void FillTheSink(bool isPlugged)
+    void OnEnable()
     {
-        this.isPlugged = isPlugged;
-        if (isPlugged && knob.isOn)
+        if (knob) knob.turnOn += OnFaucetChanged;
+    }
+
+    void OnDisable()
+    {
+        if (knob) knob.turnOn -= OnFaucetChanged;
+    }
+
+
+    void OnFaucetChanged(bool on)
+    {
+        if (on && isPlugged)
         {
-            SinkWater.gameObject.SetActive(true);
-        }
-        else if(!isPlugged)
-        {
-            SinkWater.Drainage();
+            if (!sinkWater.gameObject.activeSelf)
+            { 
+                sinkWater.gameObject.SetActive(true); 
+                if(sinkTarget.isOccupied){
+                    var beetrootItem = FindAnyObjectByType<BeetrootItem>();
+                    if(beetrootItem) beetrootItem.WashBeetroot();
+                }
+            }
+
         }
     }
-    public void FillTheSink()
+    public void WashBeetroot()
     {
-        if (isPlugged && knob.isOn)
+        
+    }
+
+    //UnityEvents
+    public void OnPlugPicked()
+    {
+        SetPlugged(false);
+    }
+
+    //UnityEvent DropValidTo
+    public void OnPlugDroppedTo(Transform target)
+    {
+        if (!target) { 
+            SetPlugged(false); 
+            return; 
+        }
+
+        if (target == drainTarget) { 
+            SetPlugged(true); 
+        }
+        else SetPlugged(false);
+    }
+
+    
+    public void OnPlugDropInvalid()
+    {
+        SetPlugged(false);
+    }
+
+
+    void SetPlugged(bool plugged)
+    {
+        if (isPlugged == plugged) return;
+        isPlugged = plugged;
+
+        if (isPlugged)
         {
-            SinkWater.gameObject.SetActive(true);
+
+            if (IsWaterOn && !sinkWater.gameObject.activeSelf)
+                sinkWater.gameObject.SetActive(true);
+        }
+        else
+        {
+
+            if (sinkWater.gameObject.activeSelf)
+                sinkWater.Drainage();
         }
     }
 }

@@ -5,7 +5,6 @@ public class HarvestStep : MonoBehaviour, ILevelStep
 {
     [Header("Settings")]
     [SerializeField] private int requireCount = 4;
-    [SerializeField] private LayerMask leafMask;
 
     private StepContext sct;
     private Spot[] spots;
@@ -16,7 +15,6 @@ public class HarvestStep : MonoBehaviour, ILevelStep
     public void Begin(StepContext sct)
     {
         this.sct = sct;
-        sct.inputManager.SetPickMask(leafMask);
 
         spots = GetComponentsInChildren<Spot>(true);
 

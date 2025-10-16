@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Grater
+  - Cuttable
+  - Pot
+  - Plate
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - Interactable
+  - Peelable
   - Drop Target
   - 
   - 
@@ -41,11 +45,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3607036613
+    locked: 0
   - name: Items
     uniqueID: 2825708133
-    locked: 0
-  - name: New Layer 2
-    uniqueID: 3607036613
     locked: 0
   m_RenderingLayers:
   - Default

@@ -7,7 +7,7 @@ public class Knob : MonoBehaviour
     [Header("Elements")]
 
     [SerializeField] private GameObject RunningWater;
-    public event Action turnOn;
+    public event Action<bool> turnOn;
     public bool isOn { get; private set; } = false;
     private void OnMouseDown()
     {
@@ -19,9 +19,8 @@ public class Knob : MonoBehaviour
         if (isOn == On) return;
         isOn = On;
         RunningWater.SetActive(isOn);
-        if (On)
-        {
-            turnOn?.Invoke();
-        }
+        
+        turnOn?.Invoke(isOn);
+        
     }
 }

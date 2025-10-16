@@ -8,7 +8,7 @@ public class Spot : MonoBehaviour
     [SerializeField] private Beetroot beetroot;
     [SerializeField] private LeafPullHandle pullHandle;
     [Header("Settings")]
-    [SerializeField] private string harvestedTrigger = "Harvested";
+    [SerializeField] private string harvestedTrigger = "Harvest";
 
     public event Action<Spot> HarvestArrived;
     private void Awake()

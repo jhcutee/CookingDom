@@ -264,6 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spot
   beetroot: {fileID: 8813299155734421730}
+  pullHandle: {fileID: 0}
   harvestedTrigger: Harvested
 --- !u!1 &9151985484050067607
 GameObject:
@@ -278,7 +279,7 @@ GameObject:
   - component: {fileID: 146782049255372042}
   - component: {fileID: 1035060438473386617}
   - component: {fileID: 6183277428157901017}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: Leaf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -392,12 +393,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e23b291754789942a9f3a2607923f01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LeafPullHandle
-  inputManager: {fileID: 0}
   spot: {fileID: 848401744077350312}
   animator: {fileID: 146782049255372042}
-  pullTrigger: Pulled
+  clickedTrigger: Clicked
+  pulledTrigger: Pulled
   idleTrigger: Idle
-  timing: 1
+  minDragPixels: 6
+  harvestDelay: 1
 --- !u!61 &6183277428157901017
 BoxCollider2D:
   m_ObjectHideFlags: 0

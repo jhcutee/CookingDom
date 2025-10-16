@@ -7,7 +7,6 @@ public class LevelDirector : MonoBehaviour
 
     [Header("Sceen Hooks")]
     [SerializeField] private Transform stepMount;
-    [SerializeField] private InputManager inputManager;
 
     [Header("Next Step Element")]
     private int currentStepIndex = -1;
@@ -18,7 +17,7 @@ public class LevelDirector : MonoBehaviour
 
     void Start()
     {
-        sct = new StepContext(this, inputManager, stepMount);
+        sct = new StepContext(this, stepMount);
         NextStep();
     }
     public void NextStep()
